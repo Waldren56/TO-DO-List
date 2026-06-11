@@ -31,4 +31,4 @@ Se desideri scaricare e testare il progetto sul tuo computer, segui questi sempl
 
 1. Clona il repository sul tuo computer:
    ```bash
-   git clone [https://github.com/IL_TUO_NOME_UTENTE/NOME_REPOSITORY.git](https://github.com/IL_TUO_NOME_UTENTE/NOME_REPOSITORY.git)
+   git clone [https://github.com/IL_TUO_NOME_UTENTE/NOME_REPOSITORY.git]
